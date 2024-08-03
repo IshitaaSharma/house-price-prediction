@@ -4,4 +4,5 @@ credits: kaggle for the dataset.
 
 
 dataset from kaggle :"https://www.kaggle.com/datasets/sukhmandeepsinghbrar/house-prices-india?select=House+Price+India.csv"
+
 (personal project)
